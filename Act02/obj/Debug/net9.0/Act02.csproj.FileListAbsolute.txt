@@ -1,0 +1,15 @@
+C:\TECNOLOGO\technologist_csharp\Act02\bin\Debug\net9.0\Act02.exe
+C:\TECNOLOGO\technologist_csharp\Act02\bin\Debug\net9.0\Act02.deps.json
+C:\TECNOLOGO\technologist_csharp\Act02\bin\Debug\net9.0\Act02.runtimeconfig.json
+C:\TECNOLOGO\technologist_csharp\Act02\bin\Debug\net9.0\Act02.dll
+C:\TECNOLOGO\technologist_csharp\Act02\bin\Debug\net9.0\Act02.pdb
+C:\TECNOLOGO\technologist_csharp\Act02\obj\Debug\net9.0\Act02.GeneratedMSBuildEditorConfig.editorconfig
+C:\TECNOLOGO\technologist_csharp\Act02\obj\Debug\net9.0\Act02.AssemblyInfoInputs.cache
+C:\TECNOLOGO\technologist_csharp\Act02\obj\Debug\net9.0\Act02.AssemblyInfo.cs
+C:\TECNOLOGO\technologist_csharp\Act02\obj\Debug\net9.0\Act02.csproj.CoreCompileInputs.cache
+C:\TECNOLOGO\technologist_csharp\Act02\obj\Debug\net9.0\Act02.sourcelink.json
+C:\TECNOLOGO\technologist_csharp\Act02\obj\Debug\net9.0\Act02.dll
+C:\TECNOLOGO\technologist_csharp\Act02\obj\Debug\net9.0\refint\Act02.dll
+C:\TECNOLOGO\technologist_csharp\Act02\obj\Debug\net9.0\Act02.pdb
+C:\TECNOLOGO\technologist_csharp\Act02\obj\Debug\net9.0\Act02.genruntimeconfig.cache
+C:\TECNOLOGO\technologist_csharp\Act02\obj\Debug\net9.0\ref\Act02.dll
